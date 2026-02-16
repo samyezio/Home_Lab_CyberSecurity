@@ -19,3 +19,4 @@ Home lab isolé et reproductible sous VMware (Kali + machine cible) pour pratiqu
 ## Progression
 
 - Day 1: setup lab + réseau + snapshots + topologie
+- Day 2: Nmap Scanning 
